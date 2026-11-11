@@ -47,7 +47,7 @@ Make sure you have installed: `.NET 10 SDK`, `Node.js (v20+)`, `Docker Desktop`,
 
 Fire up the required databases utilizing Docker:
 ```bash
-git clone https://github.com/FaseehUllahJafar/MarketNest.git
+git clone https://github.com/SethSaDev/MarketNest.git
 cd MarketNest
 docker-compose up -d
 ```
